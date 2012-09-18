@@ -1,0 +1,20 @@
+"crashDialogHeader" = "TotalFinder tiba-tiba berhenti";
+"crashDialogMsg" = "Kami moon maaf, TotalFinder tiba-tiba mengalami masalah dan menutup Finder.";
+"crashDialogNote" = "Catatan: Finder restart secara otomatis tetapi Anda harus membuka aplikasi TotalFinder secara manual lagi.";
+"crashDialogExplanation" = "Tombol kirim akan mengupload laporan kerusakan ke gist.github.com dan membuka aplikasi Email dengan template email.";
+
+"failDialogHeader" = "Tidak dapat mengirim laporan kerusakan ke gist.github.com";
+"failDialogMsg1" = "Sayang sekali. Saya tidal dapat menemukan laporan kerusakan di ~/Logs/CrashReporter Anda.";
+"failDialogMsg2" = "Saya dap at menemukan laporan kerusakan, tapi mengirim ke gist.github.com gagal karena suatu alasan. \n\n Jika mendesak, Anda dapat mengirimkannnya kepada says secara manual:\n%@";
+"failDialogOK" = "OK";
+
+"sendReportButton" = "Kirim Email";
+"cancelButton" = "Batal";
+
+"emailTemplate" = "Hi Antonin,\n\nMy %@ just crashed!\n\nThe crash report is available here:\n%@\n\n>\n> You may help me fix the problem by describing what happened before the crash.\n> I appreciate your help and I read these crash reports, but don't expect my direct answer.\n> For further discussion please open a topic at\n> http://getsatisfaction.com/binaryage.\n>\n> Thank you, Antonin";
+
+"countdownMsgSecondsPlural" = "%d detik lagi.";
+"countdownMsgSecondSingular" = "%d detik lagi.";
+
+"countdownMsgMinutesPlural" = "%d menit lagi.";
+"countdownMsgMinuteSingular" = "%d menit lagi.";
